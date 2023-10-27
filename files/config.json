@@ -1,0 +1,8 @@
+{
+  "db_user": "root",
+  "db_password": "",
+  "db_ip": "localhost",
+  "db_port": 3306,
+  "db_name": "battleshipProject",
+  "time": 1000
+}
